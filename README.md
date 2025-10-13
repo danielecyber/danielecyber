@@ -48,7 +48,9 @@ Typing fluency boosts productivity, command-line control, and focus during long 
 - **Progress:** 43%  
 - **Stars:** 845 ⭐  
 - **Points:** 306,615  
-- **Current Lesson:** 306 – *Bering Strait*  
+- **Current Lesson:** 306 – *Bering Strait*
+-  ![Typing Progress Bar](https://progress-bar.dev/43/?title=Typing+Progress&width=400&color=2bbc8a)
+
 
 > _"Fast hands, clear mind."_ ⚡  
 > _Allenando velocità e precisione di digitazione per diventare più fluido al terminale e nella scrittura tecnica._
