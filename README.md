@@ -1,3 +1,4 @@
+
 <h1 align="center">👨‍💻 Daniele Stedile | <a href="https://github.com/danielecyber">danielecyber</a></h1>
 <p align="center">
   <a href="https://tryhackme.com/p/danieleS"><img src="https://img.shields.io/badge/Cybersecurity-Student-blueviolet?style=for-the-badge&logo=hackthebox"></a>
@@ -66,7 +67,7 @@ Building solid foundations — from Linux administration to ethical hacking — 
 
 ### 🔗 Contacts & Social
 🎥 [TikTok - TrailVibes47](https://www.tiktok.com/@trailvibes47)  
-📷 [Instagram - @trailvibes47](https://www.instagram.com/trailvibes47)  
+📷 [Instagram - @danieles511](https://www.instagram.com/danieles511)  
 💼 [GitHub - danielecyber](https://github.com/danielecyber)  
 🌐 [TryHackMe - danieleS](https://tryhackme.com/p/danieleS)
 
@@ -83,4 +84,3 @@ Building solid foundations — from Linux administration to ethical hacking — 
   <br>
   🌑 Designed for dark mode | Minimal, clean & focused
 </p>
-
