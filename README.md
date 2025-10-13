@@ -38,8 +38,6 @@ Building solid foundations — from Linux administration to ethical hacking — 
 > Exploring **Linux systems**, **networking**, and **penetration testing** through daily labs and real-world simulations.  
 > Every completed lab = one step closer to mastery. ⚡
 
----
-
 ### ⌨️ Typing Practice
 Training daily on [TypingClub](https://www.typingclub.com/) to improve typing accuracy and speed.  
 Typing fluency boosts productivity, command-line control, and focus during long lab sessions.  
@@ -48,16 +46,14 @@ Typing fluency boosts productivity, command-line control, and focus during long 
 - **Progress:** 43%  
 - **Stars:** 845 ⭐  
 - **Points:** 306,615  
-- **Current Lesson:** 306 – *Bering Strait*
+- **Current Lesson:** 306 – *Bering Strait*  
 
-
-![Typing Progress](https://img.shields.io/badge/Typing_Progress-43%25-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+![Typing Progress](https://img.shields.io/badge/Typing_Progress-43%25-2bbc8a?style=for-the-badge&logo=linux&logoColor=white)
 
 > _"Fast hands, clear mind."_ ⚡  
 > _Allenando velocità e precisione di digitazione per diventare più fluido al terminale e nella scrittura tecnica._
 
----
+
 
 ### 💻 Homelab Setup
 🖥️ **Host:** Tuxedo InfinityBook Pro (Ryzen 9, 64GB RAM, 1TB SSD)  
