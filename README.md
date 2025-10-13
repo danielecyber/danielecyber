@@ -44,6 +44,12 @@ Building solid foundations — from Linux administration to ethical hacking — 
 Training daily on [TypingClub](https://www.typingclub.com/) to improve typing accuracy and speed.  
 Typing fluency boosts productivity, command-line control, and focus during long lab sessions.  
 
+#### 🎯 Current Progress:
+- **Progress:** 43%  
+- **Stars:** 845 ⭐  
+- **Points:** 306,615  
+- **Current Lesson:** 306 – *Bering Strait*  
+
 > _"Fast hands, clear mind."_ ⚡  
 > _Allenando velocità e precisione di digitazione per diventare più fluido al terminale e nella scrittura tecnica._
 
@@ -69,7 +75,7 @@ Typing fluency boosts productivity, command-line control, and focus during long 
 ---
 
 ### 🧰 Skills & Technologies
-`Linux` · `Bash` · `Networking` · `Virtualization` · `VMware / KVM` · `TryHackMe` · `GitHub` · `TypingClub` · `Python (in progress)`  
+`Linux` · `Bash` · `Networking` · `Virtualization` · `VMware / KVM` · `TryHackMe` · `TypingClub` · `GitHub` · `Python (in progress)`  
 
 ---
 
