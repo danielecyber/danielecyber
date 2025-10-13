@@ -1,4 +1,3 @@
-
 <h1 align="center">👨‍💻 Daniele Stedile | <a href="https://github.com/danielecyber">danielecyber</a></h1>
 <p align="center">
   <a href="https://tryhackme.com/p/danieleS"><img src="https://img.shields.io/badge/Cybersecurity-Student-blueviolet?style=for-the-badge&logo=hackthebox"></a>
@@ -41,6 +40,15 @@ Building solid foundations — from Linux administration to ethical hacking — 
 
 ---
 
+### ⌨️ Typing Practice
+Training daily on [TypingClub](https://www.typingclub.com/) to improve typing accuracy and speed.  
+Typing fluency boosts productivity, command-line control, and focus during long lab sessions.  
+
+> _"Fast hands, clear mind."_ ⚡  
+> _Allenando velocità e precisione di digitazione per diventare più fluido al terminale e nella scrittura tecnica._
+
+---
+
 ### 💻 Homelab Setup
 🖥️ **Host:** Tuxedo InfinityBook Pro (Ryzen 9, 64GB RAM, 1TB SSD)  
 🐧 **OS:** Tuxedo OS (Ubuntu-based)  
@@ -61,7 +69,7 @@ Building solid foundations — from Linux administration to ethical hacking — 
 ---
 
 ### 🧰 Skills & Technologies
-`Linux` · `Bash` · `Networking` · `Virtualization` · `VMware / KVM` · `TryHackMe` · `GitHub` · `Python (in progress)`  
+`Linux` · `Bash` · `Networking` · `Virtualization` · `VMware / KVM` · `TryHackMe` · `GitHub` · `TypingClub` · `Python (in progress)`  
 
 ---
 
