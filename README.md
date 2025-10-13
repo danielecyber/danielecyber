@@ -49,7 +49,9 @@ Typing fluency boosts productivity, command-line control, and focus during long 
 - **Stars:** 845 ⭐  
 - **Points:** 306,615  
 - **Current Lesson:** 306 – *Bering Strait*
--  ![Typing Progress Bar](https://progress-bar.dev/43/?title=Typing+Progress&width=400&color=2bbc8a)
+
+
+![Typing Progress](https://img.shields.io/badge/Typing_Progress-43%25-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 > _"Fast hands, clear mind."_ ⚡  
