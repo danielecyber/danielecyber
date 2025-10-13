@@ -1,119 +1,85 @@
-# 👋 Hi, I'm Daniele Stedile | [danielecyber](https://github.com/danielecyber)
-
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-blueviolet?style=for-the-badge&logo=hackthebox)](https://github.com/danielecyber)
-[![Linux](https://img.shields.io/badge/Linux-Enthusiast-2bbc8a?style=for-the-badge&logo=linux)](https://github.com/danielecyber)
-[![Learning](https://img.shields.io/badge/Lifelong-Learner-yellow?style=for-the-badge&logo=bookstack)](https://github.com/danielecyber)
-
----
-
-# 👋 Hi, I'm Daniele Stedile (danielecyber) | Ciao, sono Daniele Stedile
-
-🎯 **Cybersecurity Student | Studente di Cybersecurity**
-
-I'm currently on an intensive journey to reinvent myself in IT and cybersecurity.  
-My goal is to become a certified Penetration Tester and work abroad.  
-Sono attualmente impegnato in un percorso intensivo per reinventarmi nel settore dell’IT e della sicurezza informatica.  
-Il mio obiettivo è diventare un Penetration Tester certificato e lavorare all’estero.
+<h1 align="center">👨‍💻 Daniele Stedile | <a href="https://github.com/danielecyber">danielecyber</a></h1>
+<p align="center">
+  <a href="https://tryhackme.com/p/danieleS"><img src="https://img.shields.io/badge/Cybersecurity-Student-blueviolet?style=for-the-badge&logo=hackthebox"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-Enthusiast-2bbc8a?style=for-the-badge&logo=linux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Lifelong-Learner-yellow?style=for-the-badge&logo=bookstack"></a>
+</p>
 
 ---
 
-## 📚 Training Path | Percorso Formativo
+### 🧠 About Me
+💡 Cybersecurity Student | Linux Enthusiast | Future Penetration Tester  
+Currently reinventing myself through a complete IT & cybersecurity journey.  
+Building solid foundations — from Linux administration to ethical hacking — with daily hands-on lab work.  
+🇮🇹 Studente di Cybersecurity impegnato in un percorso di formazione completo per diventare Penetration Tester certificato e lavorare all’estero.
 
-- ✅ Basic IT | Informatica di Base
-- ✅ Windows OS Base
-- ✅ Linux Essentials
-- 🔄 LPIC-1 101 (in progress | in corso)
-- 🔜 LPIC-1 102
-- 🔜 Virtualization | Virtualizzazione
-- 🔜 Basic Networking | Networking di Base
-- 🔜 CompTIA Server+
-- 🔜 Windows Server Professional
-- 🔜 Cybersecurity Fundamentals | Sicurezza Informatica
-- 🔜 CompTIA Security+
-- 🔜 CompTIA PenTest+
+> _"TrailVibes47 on the mountains, danielecyber in the terminal."_ 🧑‍💻🏞️
 
 ---
 
-## 🧠 Goals | Obiettivi
-
-- ✅ Earn international certifications (LPIC, CompTIA, etc.)
-- ✅ Improve technical and spoken English
-- ✅ Work abroad as an ethical hacker (🇺🇸 USA, 🇬🇧 UK, 🇨🇭 Switzerland)  
-Ottenere certificazioni riconosciute, migliorare l'inglese tecnico e lavorare all'estero come ethical hacker.
-
----
-
-## 📜 Certifications | Certificazioni
-
-- ✅ **Basic IT** – 7 September 2025 *(8 hours)*  
-  **Introduzione all’Informatica** – 7 settembre 2025 *(8 ore)*  
-  📄 [View Certificate (PDF)](./Attestato_di_partecipazione_al_corso.pdf)
-
-- ✅ **Microsoft Windows OS** – 17 September 2025 *(8 hours)*  
-  **Corso base Microsoft Windows** – 17 settembre 2025 *(8 ore)*  
-  📄 [View Certificate (PDF)](./Attestato_di_partecipazione_al_corso.pdf)
-
-- ✅ **Linux Essentials (LPI)** – 5 October 2025 *(24 hours)*  
-  **Linux Essentials (LPI)** – 5 ottobre 2025 *(24 ore)*  
-  📄 [View Certificate (PDF)](./Certificato_Linux_LPI_Essential.pdf)
+### 📚 Training Path
+- ✅ **Basic IT** — Informatica di Base  
+- ✅ **Windows OS Base**  
+- ✅ **Linux Essentials (LPI)**  
+- 🔄 **LPIC-1 101** *(in progress)*  
+- 🔜 LPIC-1 102  
+- 🔜 Virtualization & Networking  
+- 🔜 Windows Server Professional  
+- 🔜 CompTIA Server+  
+- 🔜 CompTIA Security+  
+- 🎯 **Goal:** CompTIA PenTest+  
 
 ---
 
-## 🔗 Contacts & Social | Contatti & Social
+### 🧠 TryHackMe Progress
 
-- 🎥 TikTok: [TrailVibes47](https://www.tiktok.com/@trailvibes47)
-- 📷 Instagram: [@danieles511](https://www.instagram.com/trailvibes47)
-<!-- You can add LinkedIn or GitHub Pages here -->
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/danieleS.png)](https://tryhackme.com/p/danieleS)
 
----
-
-## 💬 About Me | Bio & Valori
-
-🎒 Lifelong learner passionate about open-source, mountains, and ethical hacking.  
-🌍 I want to build a better life through learning and dedication.  
-Amo l'apprendimento continuo, la natura (hiking!) e la tecnologia.  
-Desidero creare una vita migliore attraverso lo studio e l’impegno.
-
-> _"TrailVibes47 on the trails, danielecyber in the terminal."_ 🧑‍💻🏞️  
-> _"TrailVibes47 sui sentieri, danielecyber nel terminale."_
+> Exploring **Linux systems**, **networking**, and **penetration testing** through daily labs and real-world simulations.  
+> Every completed lab = one step closer to mastery. ⚡
 
 ---
 
-🗓️ **Last update | Ultimo aggiornamento:** 10 October 2025
+### 💻 Homelab Setup
+🖥️ **Host:** Tuxedo InfinityBook Pro (Ryzen 9, 64GB RAM, 1TB SSD)  
+🐧 **OS:** Tuxedo OS (Ubuntu-based)  
+🔒 **VMs:** Ubuntu Server · Kali Linux · Windows 11 *(via KVM & Multipass)*  
+🌐 **Network:** NAT + Bridged modes for network simulation  
+⚙️ **Tools:** Virtual Machine Manager · Bottles · ProtonPass · Surfshark VPN  
 
-🎯 **Cybersecurity Student | Future Penetration Tester**
-
-I'm on a mission to reinvent myself in the IT and cybersecurity world. Currently enrolled in a comprehensive multi-year training program, I’m steadily building the foundations (and advanced knowledge!) to become a certified and highly-skilled ethical hacker.
-
----
-
-## 🛠️ Projects & Labs
-
-- 🐧 **Linux Practice** – Shell scripting, user/group management, and filesystem hierarchy
-- 🔒 **TryHackMe Labs** – Intro to Pentesting and Offensive Security basics
-- 🧪 **Virtualization Experiments** – KVM + Multipass on Tuxedo OS
+> Purpose: to simulate real-world systems, practice administration, and test cybersecurity scenarios safely.
 
 ---
 
-## 💡 Interests & Values
-
-- 🔐 Cybersecurity (offensive & defensive)
-- 🕵️‍♂️ Ethical hacking
-- 🐧 Linux & open-source systems
-- 🚀 Lifelong learning & self-development
-- 📖 Sharing knowledge — staying curious
+### 🧩 Goals
+- 🧠 Earn international certifications *(LPIC, CompTIA, etc.)*  
+- 💬 Improve technical and spoken English  
+- 🌍 Work abroad as an Ethical Hacker *(🇺🇸 USA, 🇬🇧 UK, 🇨🇭 Switzerland)*  
+- 🧱 Build a personal lab for red/blue team training  
 
 ---
 
-## 📫 Let's Connect!
-
-I'm building my presence online — more links coming soon!
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](YOUR-LINKEDIN-URL)
-[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1da1f2?logo=twitter&logoColor=white&style=flat-square)](YOUR-TWITTER-URL)
-[![Website](https://img.shields.io/badge/Portfolio-Coming_Soon-informational?style=flat-square&logo=githubpages)](YOUR-PORTFOLIO-URL)
--->
+### 🧰 Skills & Technologies
+`Linux` · `Bash` · `Networking` · `Virtualization` · `VMware / KVM` · `TryHackMe` · `GitHub` · `Python (in progress)`  
 
 ---
 
-> _"TrailVibes47 in the mountains, danielecyber in the terminal."_ 🧑‍💻🗻
+### 🔗 Contacts & Social
+🎥 [TikTok - TrailVibes47](https://www.tiktok.com/@trailvibes47)  
+📷 [Instagram - @trailvibes47](https://www.instagram.com/trailvibes47)  
+💼 [GitHub - danielecyber](https://github.com/danielecyber)  
+🌐 [TryHackMe - danieleS](https://tryhackme.com/p/danieleS)
+
+---
+
+### 🧾 Quote
+> _"Discipline beats motivation. Build, break, learn, repeat."_ ⚡  
+> _"TrailVibes47 sui sentieri, danielecyber nel terminale."_ 🧑‍💻🏔️  
+
+---
+
+<p align="center">
+  🗓️ <b>Last Update:</b> 10 October 2025  
+  <br>
+  🌑 Designed for dark mode | Minimal, clean & focused
+</p>
