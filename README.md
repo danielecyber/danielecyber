@@ -31,8 +31,6 @@ Building solid foundations — from Linux administration to ethical hacking — 
 
 ---
 
-### 🧠 TryHackMe Progress
-
 ## 🧠 TryHackMe Progress
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/danielecyber.png)](https://tryhackme.com/p/danielecyber)
