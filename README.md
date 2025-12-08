@@ -40,7 +40,7 @@ Building solid foundations — from Linux administration to ethical hacking — 
 </p>
 
 Exploring Linux systems, networking, and penetration testing through daily labs and real-world simulations.  
-Every completed lab = one step closer to mastery. 
+Every completed lab = one step closer to mastery.
 
 
 ### ⌨️ Typing Practice
