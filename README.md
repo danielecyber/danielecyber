@@ -33,10 +33,11 @@ Building solid foundations — from Linux administration to ethical hacking — 
 
 ## 🧠 TryHackMe Progress
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/danielecyber.png)](https://tryhackme.com/p/danielecyber)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/danieleS.png)](https://tryhackme.com/p/danieleS)
 
 Exploring Linux systems, networking, and penetration testing through daily labs and real-world simulations.  
 Every completed lab = one step closer to mastery.
+
 
 
 ### ⌨️ Typing Practice
