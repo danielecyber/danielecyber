@@ -81,9 +81,7 @@ Typing fluency boosts productivity, command-line control, and focus during long 
 
 ---
 
-### 🔗 Contacts & Social
-🎥 [TikTok - TrailVibes47](https://www.tiktok.com/@trailvibes47)  
-📷 [Instagram - @danieles511](https://www.instagram.com/danieles511)  
+### 🔗 Contacts & Social  
 💼 [GitHub - danielecyber](https://github.com/danielecyber)  
 🌐 [TryHackMe - danieleS](https://tryhackme.com/p/danieleS)
 
