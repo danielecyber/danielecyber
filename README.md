@@ -21,7 +21,7 @@ Building solid foundations — from Linux administration to ethical hacking — 
 - ✅ **Basic IT** — Informatica di Base  
 - ✅ **Windows OS Base**  
 - ✅ **Linux Essentials (LPI)**  
-- 🔄 **LPIC-1 101** *(in progress)*  
+- ✅ LPIC-1 101 — Certified ([View certificate](Certificato_Linux.pdf))
 - 🔜 LPIC-1 102  
 - 🔜 Virtualization & Networking  
 - 🔜 Windows Server Professional  
