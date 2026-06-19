@@ -1,33 +1,60 @@
 <h1 align="center">👨‍💻 Daniele Stedile | <a href="https://github.com/danielecyber">danielecyber</a></h1>
+
 <p align="center">
-  <a href="https://tryhackme.com/p/danieleS"><img src="https://img.shields.io/badge/Cybersecurity-Student-blueviolet?style=for-the-badge&logo=hackthebox"></a>
+  <a href="https://tryhackme.com/p/danieleS"><img src="https://img.shields.io/badge/Cybersecurity-Student-blueviolet?style=for-the-badge&logo=tryhackme"></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-Enthusiast-2bbc8a?style=for-the-badge&logo=linux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/HomeLab-Practice-orange?style=for-the-badge&logo=virtualbox"></a>
   <a href="#"><img src="https://img.shields.io/badge/Lifelong-Learner-yellow?style=for-the-badge&logo=bookstack"></a>
 </p>
 
 ---
 
-### 🧠 About Me
-💡 Cybersecurity Student | Linux Enthusiast | Future Penetration Tester  
-Currently reinventing myself through a complete IT & cybersecurity journey.  
-Building solid foundations — from Linux administration to ethical hacking — with daily hands-on lab work.  
-🇮🇹 Studente di Cybersecurity impegnato in un percorso di formazione completo per diventare Penetration Tester certificato e lavorare all’estero.
+## 🧠 About Me
 
-> _"TrailVibes47 on the mountains, danielecyber in the terminal."_ 🧑‍💻🏞️
+💡 **Cybersecurity Student | Linux Enthusiast | HomeLab Practitioner | Future Penetration Tester**
+
+I am currently rebuilding my professional path through a structured IT and cybersecurity journey.
+
+My focus is on building strong foundations in Linux, networking, virtualization, system administration, and security fundamentals through consistent hands-on practice.
+
+I believe that theory becomes valuable only when it is tested, documented, and applied in a real lab environment.
+
+🇮🇹 Studente di cybersecurity impegnato in un percorso di riqualificazione professionale verso l’IT, la sicurezza informatica e il penetration testing.
+
+> *"Imperare sibi maximum imperium est."* 🧠⚔️
 
 ---
 
-### 📚 Training Path
-- ✅ **Basic IT** — Informatica di Base  
-- ✅ **Windows OS Base**  
-- ✅ **Linux Essentials (LPI)**  
-- ✅ LPIC-1 101 — Certified ([View certificate](Certificato_Linux.pdf))
-- 🔜 LPIC-1 102  
-- 🔜 Virtualization & Networking  
-- 🔜 Windows Server Professional  
-- 🔜 CompTIA Server+  
-- 🔜 CompTIA Security+  
-- 🎯 **Goal:** CompTIA PenTest+  
+## 📚 Training Path
+
+* ✅ **Basic IT — Certificate of Completion** ([View certificate](Certificato_Basic_IT.pdf))
+* ✅ **Windows OS Base — Certificate of Completion** ([View certificate](Certificato_Windows_OS_Base.pdf))
+* ✅ **Linux Essentials — Certificate of Completion** ([View certificate](Certificato_Linux_Essentials.pdf))
+* ✅ **Linux LPIC-1 101 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_101.pdf))
+* ✅ **Linux LPIC-1 102 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_102.pdf))
+* 🔄 **Virtualization — in progress**
+* 🔜 **Networking**
+* 🔜 **Windows Server Professional**
+* 🔜 **CompTIA Server+**
+* 🔜 **CompTIA Security+**
+* 🎯 **Goal:** CompTIA PenTest+
+
+---
+
+## 🧪 HomeLab Practice
+
+My HomeLab is where I turn theory into practical experience.
+
+I use it to simulate real-world systems, practice Linux administration, test network configurations, and safely explore cybersecurity scenarios.
+
+### 💻 HomeLab Setup
+
+🖥️ **Host:** Tuxedo InfinityBook Pro — Ryzen 9, 64GB RAM, 1TB SSD
+🐧 **OS:** Tuxedo OS — Ubuntu-based
+⚙️ **Virtualization:** KVM/QEMU with Virtual Machine Manager
+🔒 **Virtual Machines:** Ubuntu Server · Kali Linux · Windows 11 · pfSense
+🌐 **Networking:** NAT and bridged modes for network simulation
+🧰 **Tools:** Virt-Manager · GitHub · TryHackMe · Linux CLI · ProtonPass · Surfshark VPN
 
 ---
 
@@ -35,66 +62,65 @@ Building solid foundations — from Linux administration to ethical hacking — 
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/danieleS.png)](https://tryhackme.com/p/danieleS)
 
-Exploring Linux systems, networking, and penetration testing through daily labs and real-world simulations.  
-Every completed lab = one step closer to mastery.
+I use TryHackMe to practice Linux systems, networking, cybersecurity fundamentals, and penetration testing concepts through guided labs and realistic scenarios.
 
-
-
-### ⌨️ Typing Practice
-Training daily on [TypingClub](https://www.typingclub.com/) to improve typing accuracy and speed.  
-Typing fluency boosts productivity, command-line control, and focus during long lab sessions.  
-
-#### 🎯 Current Progress:
-- **Progress:** 43%  
-- **Stars:** 845 ⭐  
-- **Points:** 306,615  
-- **Current Lesson:** 306 – *Bering Strait*  
-
-![Typing Progress](https://img.shields.io/badge/Typing_Progress-43%25-2bbc8a?style=for-the-badge&logo=linux&logoColor=white)
-
-> _"Fast hands, clear mind."_ ⚡  
-> _Allenando velocità e precisione di digitazione per diventare più fluido al terminale e nella scrittura tecnica._
-
-
-
-### 💻 Homelab Setup
-🖥️ **Host:** Tuxedo InfinityBook Pro (Ryzen 9, 64GB RAM, 1TB SSD)  
-🐧 **OS:** Tuxedo OS (Ubuntu-based)  
-🔒 **VMs:** Ubuntu Server · Kali Linux · Windows 11 *(via KVM & Multipass)*  
-🌐 **Network:** NAT + Bridged modes for network simulation  
-⚙️ **Tools:** Virtual Machine Manager · Bottles · ProtonPass · Surfshark VPN  
-
-> Purpose: to simulate real-world systems, practice administration, and test cybersecurity scenarios safely.
+Every completed lab is another step toward technical confidence and real-world capability.
 
 ---
 
-### 🧩 Goals
-- 🧠 Earn international certifications *(LPIC, CompTIA, etc.)*  
-- 💬 Improve technical and spoken English  
-- 🌍 Work abroad as an Ethical Hacker *(🇺🇸 USA, 🇬🇧 UK, 🇨🇭 Switzerland)*  
-- 🧱 Build a personal lab for red/blue team training  
+## ⌨️ Typing Practice
+
+I train on [TypingClub](https://www.typingclub.com/) to improve typing accuracy, speed, and command-line fluency.
+
+Typing is not just a secondary skill: it improves productivity, focus, technical writing, and terminal efficiency during long lab sessions.
+
+### 🎯 Current Progress
+
+* **Progress:** 43%
+* **Stars:** 845 ⭐
+* **Points:** 306,615
+* **Current Lesson:** 306 — *Bering Strait*
+
+![Typing Progress](https://img.shields.io/badge/Typing_Progress-43%25-2bbc8a?style=for-the-badge\&logo=linux\&logoColor=white)
+
+> *"Fast hands, clear mind."* ⚡
 
 ---
 
-### 🧰 Skills & Technologies
-`Linux` · `Bash` · `Networking` · `Virtualization` · `VMware / KVM` · `TryHackMe` · `TypingClub` · `GitHub` · `Python (in progress)`  
+## 🧩 Goals
+
+* Build strong Linux, networking, and security fundamentals
+* Practice consistently through HomeLab environments
+* Document technical progress through GitHub and LinkedIn
+* Improve technical English and spoken communication
+* Progress toward international IT and cybersecurity certifications
+* Work abroad in IT or cybersecurity
+* Build a long-term path toward penetration testing
 
 ---
 
-### 🔗 Contacts & Social  
-💼 [GitHub - danielecyber](https://github.com/danielecyber)  
-🌐 [TryHackMe - danieleS](https://tryhackme.com/p/danieleS)
+## 🧰 Skills & Technologies
+
+`Linux` · `Bash` · `Networking` · `Virtualization` · `KVM/QEMU` · `Virt-Manager` · `pfSense` · `Kali Linux` · `Ubuntu Server` · `Windows 11` · `TryHackMe` · `GitHub` · `TypingClub` · `Python (in progress)`
 
 ---
 
-### 🧾 Quote
-> _"Discipline beats motivation. Build, break, learn, repeat."_ ⚡  
-> _"TrailVibes47 sui sentieri, danielecyber nel terminale."_ 🧑‍💻🏔️  
+## 🔗 Contacts & Social
+
+💼 [GitHub — danielecyber](https://github.com/danielecyber)
+🌐 [TryHackMe — danieleS](https://tryhackme.com/p/danieleS)
+
+---
+
+## 🧾 Quote
+
+> *"Discipline beats motivation. Build, break, learn, repeat."* ⚡
+> *"Imperare sibi maximum imperium est."* 🧠⚔️
 
 ---
 
 <p align="center">
-  🗓️ <b>Last Update:</b> 10 October 2025  
+  🗓️ <b>Last Update:</b> 19 June 2026  
   <br>
   🌑 Designed for dark mode | Minimal, clean & focused
 </p>
