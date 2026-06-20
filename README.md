@@ -70,21 +70,25 @@ Every completed lab is another step toward technical confidence and real-world c
 
 ## ⌨️ Typing Practice
 
+## ⌨️ Typing Practice
+
 I train on [TypingClub](https://www.typingclub.com/) to improve typing accuracy, speed, and command-line fluency.
 
 Typing is not just a secondary skill: it improves productivity, focus, technical writing, and terminal efficiency during long lab sessions.
 
 ### 🎯 Current Progress
 
-* **Progress:** 43%
-* **Stars:** 845 ⭐
-* **Points:** 306,615
-* **Current Lesson:** 306 — *Bering Strait*
+- **Progress:** 52%
+- **Stars:** 1,039 ⭐
+- **Points:** 372,014
+- **Current Lesson:** 371 — *Tallest Building*
+- **Overall Speed:** 23 WPM
+- **Accuracy:** 92%
+- **Coverage:** 74%
 
-![Typing Progress](https://img.shields.io/badge/Typing_Progress-43%25-2bbc8a?style=for-the-badge\&logo=linux\&logoColor=white)
+![Typing Progress](https://img.shields.io/badge/Typing_Progress-52%25-2bbc8a?style=for-the-badge&logo=linux&logoColor=white)
 
-> *"Fast hands, clear mind."* ⚡
-
+> _"Fast hands, clear mind."_ ⚡
 ---
 
 ## 🧩 Goals
