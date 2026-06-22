@@ -70,8 +70,6 @@ Every completed lab is another step toward technical confidence and real-world c
 
 ## ⌨️ Typing Practice
 
-## ⌨️ Typing Practice
-
 I train on [TypingClub](https://www.typingclub.com/) to improve typing accuracy, speed, and command-line fluency.
 
 Typing is not just a secondary skill: it improves productivity, focus, technical writing, and terminal efficiency during long lab sessions.
