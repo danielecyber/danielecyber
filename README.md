@@ -32,7 +32,8 @@ I believe that theory becomes valuable only when it is tested, documented, and a
 * ✅ **Linux Essentials — Certificate of Completion** ([View certificate](Certificato_Linux_Essentials.pdf))
 * ✅ **Linux LPIC-1 101 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_101.pdf))
 * ✅ **Linux LPIC-1 102 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_102.pdf))
-- ✅ Virtualization Fundamentals — Certificate of Completion ([View certificate](./certificates/Certificato_Virtualization_Fundamentals.pdf))* 🔜 **Networking**
+- ✅ Virtualization Fundamentals — Certificate of Completion ([View certificate](./certificates/Certificato_Virtualization_Fundamentals.pdf))* 
+  🔜 **Networking**
 * 🔜 **Windows Server Professional**
 * 🔜 **CompTIA Server+**
 * 🔜 **CompTIA Security+**
