@@ -32,8 +32,8 @@ I believe that theory becomes valuable only when it is tested, documented, and a
 * ✅ **Linux Essentials — Certificate of Completion** ([View certificate](Certificato_Linux_Essentials.pdf))
 * ✅ **Linux LPIC-1 101 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_101.pdf))
 * ✅ **Linux LPIC-1 102 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_102.pdf))
-- ✅ Virtualization Fundamentals — Certificate of Completion ([View certificate](./certificates/Certificato_Virtualization_Fundamentals.pdf))* 
-  🔜 **Networking**
+* ✅ **Virtualization Fundamentals — Certificate of Completion** ([View certificate](Certificato_Virtualization_Fundamentals.pdf))
+* 🔄 **Networking — in progress**
 * 🔜 **Windows Server Professional**
 * 🔜 **CompTIA Server+**
 * 🔜 **CompTIA Security+**
@@ -47,13 +47,15 @@ My HomeLab is where I turn theory into practical experience.
 
 I use it to simulate real-world systems, practice Linux administration, test network configurations, and safely explore cybersecurity scenarios.
 
+I have completed the Virtualization Fundamentals module and I am applying these concepts through my personal KVM/QEMU HomeLab.
+
 ### 💻 HomeLab Setup
 
-🖥️ **Host:** Tuxedo InfinityBook Pro — Ryzen 9, 64GB RAM, 1TB SSD
-🐧 **OS:** Tuxedo OS — Ubuntu-based
-⚙️ **Virtualization:** KVM/QEMU with Virtual Machine Manager
-🔒 **Virtual Machines:** Ubuntu Server · Kali Linux · Windows 11 · pfSense
-🌐 **Networking:** NAT and bridged modes for network simulation
+🖥️ **Host:** Tuxedo InfinityBook Pro — Ryzen 9, 64GB RAM, 1TB SSD  
+🐧 **OS:** Tuxedo OS — Ubuntu-based  
+⚙️ **Virtualization:** KVM/QEMU with Virtual Machine Manager  
+🔒 **Virtual Machines:** Ubuntu Server · Kali Linux · Windows 11 · pfSense  
+🌐 **Networking:** NAT and bridged modes for network simulation  
 🧰 **Tools:** Virt-Manager · GitHub · TryHackMe · Linux CLI · ProtonPass · Surfshark VPN
 
 ---
@@ -87,6 +89,7 @@ Typing is not just a secondary skill: it improves productivity, focus, technical
 ![Typing Progress](https://img.shields.io/badge/Typing_Progress-52%25-2bbc8a?style=for-the-badge&logo=linux&logoColor=white)
 
 > _"Fast hands, clear mind."_ ⚡
+
 ---
 
 ## 🧩 Goals
@@ -109,20 +112,20 @@ Typing is not just a secondary skill: it improves productivity, focus, technical
 
 ## 🔗 Contacts & Social
 
-💼 [GitHub — danielecyber](https://github.com/danielecyber)
+💼 [GitHub — danielecyber](https://github.com/danielecyber)  
 🌐 [TryHackMe — danieleS](https://tryhackme.com/p/danieleS)
 
 ---
 
 ## 🧾 Quote
 
-> *"Discipline beats motivation. Build, break, learn, repeat."* ⚡
+> *"Discipline beats motivation. Build, break, learn, repeat."* ⚡  
 > *"Imperare sibi maximum imperium est."* 🧠⚔️
 
 ---
 
 <p align="center">
-  🗓️ <b>Last Update:</b> 19 June 2026  
+  🗓️ <b>Last Update:</b> 13 July 2026  
   <br>
   🌑 Designed for dark mode | Minimal, clean & focused
 </p>
