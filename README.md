@@ -33,7 +33,7 @@ I believe that theory becomes valuable only when it is tested, documented, and a
 * ✅ **Linux LPIC-1 101 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_101.pdf))
 * ✅ **Linux LPIC-1 102 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_102.pdf))
 * ✅ **Virtualization Fundamentals — Certificate of Completion** ([View certificate](Certificato_Virtualization_Fundamentals.pdf))
-* ✅ **Cisco Networking Academy — Getting Started with Cisco Packet Tracer** ([View credential](https://www.netacad.com/certificates/?issuanceId=0dd0e3b5-381a-48d8-b4d6-6c9495293b4f))
+* ✅ **Cisco Networking Academy — Getting Started with Cisco Packet Tracer** ([View certificate](Certificato_Cisco_Packet_Tracer.pdf))
 * 🔄 **Networking — in progress**
 * 🔜 **Windows Server Professional**
 * 🔜 **CompTIA Server+**
