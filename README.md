@@ -27,6 +27,8 @@ I believe that theory becomes valuable only when it is tested, documented, and a
 
 ## 📚 Training Path
 
+## 📚 Training Path
+
 * ✅ **Basic IT — Certificate of Completion** ([View certificate](Certificato_Basic_IT.pdf))
 * ✅ **Windows OS Base — Certificate of Completion** ([View certificate](Certificato_Windows_OS_Base.pdf))
 * ✅ **Linux Essentials — Certificate of Completion** ([View certificate](Certificato_Linux_Essentials.pdf))
@@ -34,11 +36,13 @@ I believe that theory becomes valuable only when it is tested, documented, and a
 * ✅ **Linux LPIC-1 102 — Certificate of Completion** ([View certificate](Certificato_Linux_LPIC-1_102.pdf))
 * ✅ **Virtualization Fundamentals — Certificate of Completion** ([View certificate](Certificato_Virtualization_Fundamentals.pdf))
 * ✅ **Cisco Networking Academy — Getting Started with Cisco Packet Tracer** ([View certificate](Certificato_Cisco_Packet_Tracer.pdf))
+* ✅ **Cisco Networking Academy — Exploring Networking with Cisco Packet Tracer** ([View certificate](Certificato_Cisco_Exploring_Networking_Packet_Tracer.pdf))
 * 🔄 **Networking — in progress**
 * 🔜 **Windows Server Professional**
 * 🔜 **CompTIA Server+**
 * 🔜 **CompTIA Security+**
 * 🎯 **Goal:** CompTIA PenTest+
+
 
 ---
 
