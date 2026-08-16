@@ -27,8 +27,6 @@ I believe that theory becomes valuable only when it is tested, documented, and a
 
 ## 📚 Training Path
 
-## 📚 Training Path
-
 * ✅ **Basic IT — Certificate of Completion** ([View certificate](Certificato_Basic_IT.pdf))
 * ✅ **Windows OS Base — Certificate of Completion** ([View certificate](Certificato_Windows_OS_Base.pdf))
 * ✅ **Linux Essentials — Certificate of Completion** ([View certificate](Certificato_Linux_Essentials.pdf))
