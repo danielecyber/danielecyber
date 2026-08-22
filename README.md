@@ -35,6 +35,7 @@ I believe that theory becomes valuable only when it is tested, documented, and a
 * ✅ **Virtualization Fundamentals — Certificate of Completion** ([View certificate](Certificato_Virtualization_Fundamentals.pdf))
 * ✅ **Cisco Networking Academy — Getting Started with Cisco Packet Tracer** ([View certificate](Certificato_Cisco_Packet_Tracer.pdf))
 * ✅ **Cisco Networking Academy — Exploring Networking with Cisco Packet Tracer** ([View certificate](Certificato_Cisco_Exploring_Networking_Packet_Tracer.pdf))
+* ✅ **Palo Alto Networks Academy — Cybersecurity Fundamentals — Certificate of Completion** ([View certificate](LINK_DEL_CERTIFICATO))
 * 🔄 **Networking — in progress**
 * 🔜 **Windows Server Professional**
 * 🔜 **CompTIA Server+**
